@@ -1,2 +1,2 @@
 # Aulas - MySQL
-repositório de aulas utilizando o MySQL Workbench
+Arquivos das aulas de MySQL
