@@ -20,3 +20,9 @@ VALUES
 
 UPDATE Funcionarios SET salario = 8500.00 WHERE id = 1;
 UPDATE Funcionarios SET ativo = FALSE WHERE id = 2;
+
+DELETE FROM Funcionarios;
+
+DROP TABLE Funcionarios;
+
+DROP DATABASE Empresa;
