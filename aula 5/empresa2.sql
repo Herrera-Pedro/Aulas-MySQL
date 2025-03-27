@@ -30,3 +30,4 @@ VALUES
 
 SELECT f.nome, f.cargo, d.nome AS departamento
 FROM Funcionarios f
+INNER JOIN Departamentos d ON f.departamento_id = d.id;
