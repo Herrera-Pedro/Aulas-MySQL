@@ -18,4 +18,5 @@ VALUES
 ('Pedro', 'pedro.herrera@gmail.com', 'Senior', 9500.00, '2025-03-27'),
 ('Matheus', 'matheus.galdino@gmail.com', 'Pleno', 6000.00, '2025-01-20')
 
-
+UPDATE Funcionarios SET salario = 8500.00 WHERE id = 1;
+UPDATE Funcionarios SET ativo = FALSE WHERE id = 2;
